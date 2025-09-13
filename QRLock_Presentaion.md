@@ -28,7 +28,7 @@
 
 **QRLOCK Architecture**
 
-![QRLOCK Flowchart](qrlock_flow.png)
+![QRLOCK Flowchart](QRLock_flow.png)
 
 > 🧩 A playful, icon-driven flowchart showing how QRLOCK handles input, validation, OTP logic, and simulated lock control.
 
