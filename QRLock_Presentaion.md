@@ -130,11 +130,11 @@
 
 ---
 
-## 📞 Slide 10: Contact & GitHub
+## 📞 Slide 10: Product presentation pdf
 
-**Try It Yourself**
+**Reference with raspberry pi and other QR products**
 
-- Demo PDF: [`TANG SEONG FATT - QRLOCK.pdf`](TANG SEONG FATT - QRLOCK.pdf)  
+- Demo PDF: [`TANG SEONG FATT - QRLOCK.pdf`](TANG%20SEONG%20FATT%20-%20QRLOCK.pdf)  
 
 
 <details><summary>🗣️ Speaker Notes</summary>
