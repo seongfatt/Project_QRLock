@@ -134,10 +134,8 @@
 
 **Try It Yourself**
 
-- GitHub: [github.com/your-repo](https://github.com/your-repo)  
-- Demo PDF: [`qrlock_presentation.pdf`](assets/qrlock_presentation.pdf)  
-- Flowchart: [`qrlock_flowchart_full.png`](assets/qrlock_flowchart_full.png)  
-- Demo GIF: [`qrlock_admin_demo.gif`](assets/qrlock_admin_demo.gif)
+- Demo PDF: [`TANG SEONG FATT - QRLOCK.pdf`](TANG SEONG FATT - QRLOCK.pdf)  
+
 
 <details><summary>🗣️ Speaker Notes</summary>
 “Feel free to fork the repo, run the simulator, or reach out for collaboration!”
