@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 Slide 1: Title
+## 🎯 Slide 1: QRLock access
 
 **QRLOCK – Simulated Smart Access Control System**
 
