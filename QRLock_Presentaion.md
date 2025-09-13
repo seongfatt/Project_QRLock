@@ -56,7 +56,7 @@
 
 ## 🎥 Slide 5: Demo Preview
 
-![Demo GIF](assets/qrlock_admin_demo.gif)
+![Demo GIF](qrlock_demo.png)
 
 > 🎬 Admin menu in action: adding QR codes, toggling OTP, and viewing the database—all in a light-themed terminal.
 
